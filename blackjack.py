@@ -181,3 +181,6 @@ new_game()
 
 
 mainWindow.mainloop()
+
+print("stuff")
+
